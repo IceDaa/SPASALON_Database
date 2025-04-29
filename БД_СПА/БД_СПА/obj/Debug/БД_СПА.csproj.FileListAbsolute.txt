@@ -1,0 +1,16 @@
+C:\Users\demka\source\repos\БД_СПА\БД_СПА\bin\Debug\СПА САЛОН БД.accdb
+C:\Users\demka\source\repos\БД_СПА\БД_СПА\bin\Debug\БД_СПА.exe.config
+C:\Users\demka\source\repos\БД_СПА\БД_СПА\bin\Debug\БД_СПА.exe
+C:\Users\demka\source\repos\БД_СПА\БД_СПА\bin\Debug\БД_СПА.pdb
+C:\Users\demka\source\repos\БД_СПА\БД_СПА\obj\Debug\БД_СПА.csproj.AssemblyReference.cache
+C:\Users\demka\source\repos\БД_СПА\БД_СПА\obj\Debug\БД_СПА.Properties.Resources.resources
+C:\Users\demka\source\repos\БД_СПА\БД_СПА\obj\Debug\БД_СПА.csproj.GenerateResource.cache
+C:\Users\demka\source\repos\БД_СПА\БД_СПА\obj\Debug\БД_СПА.csproj.CoreCompileInputs.cache
+C:\Users\demka\source\repos\БД_СПА\БД_СПА\obj\Debug\БД_СПА.exe
+C:\Users\demka\source\repos\БД_СПА\БД_СПА\obj\Debug\БД_СПА.pdb
+C:\Users\demka\source\repos\БД_СПА\БД_СПА\obj\Debug\БД_СПА.Form2.resources
+C:\Users\demka\source\repos\БД_СПА\БД_СПА\obj\Debug\БД_СПА.Form3.resources
+C:\Users\demka\source\repos\БД_СПА\БД_СПА\obj\Debug\БД_СПА.Form4.resources
+C:\Users\demka\source\repos\БД_СПА\БД_СПА\obj\Debug\БД_СПА.Form5.resources
+C:\Users\demka\source\repos\БД_СПА\БД_СПА\obj\Debug\БД_СПА.Form6.resources
+C:\Users\demka\source\repos\БД_СПА\БД_СПА\obj\Debug\БД_СПА.Form1.resources
